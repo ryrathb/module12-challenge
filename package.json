@@ -1,0 +1,26 @@
+{
+  "name": "module12-challenge",
+  "version": "1.0.0",
+  "description": "Organization application meant for business owners to keep their businesses in check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "module",
+    "url": "https://github.com/ryrathb/module12-challenge"
+  },
+  "keywords": [],
+  "author": "Ryan Rathbun",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.0",
+    "mysql": "^2.18.1",
+    "node": "^16.17.0",
+    "nodemon": "^2.0.19",
+    "util": "^0.12.4"
+  }
+}
